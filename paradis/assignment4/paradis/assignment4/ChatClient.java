@@ -1,5 +1,6 @@
 // Peter Idestam-Almquist, 2017-03-10.
 // Client, two-threaded, responsive to incoming messages.
+// NOTE - NOT WRITTEN BY VERA, file provided by SU. 
 
 package paradis.assignment4;
 
